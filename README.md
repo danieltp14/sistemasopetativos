@@ -1,0 +1,2 @@
+# sistemasopetativos
+Manteminiento del computador
